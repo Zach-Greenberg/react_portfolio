@@ -10,7 +10,7 @@ function Contact() {
                     <p><a href="https://www.linkedin.com/in/zachary-greenberg-0857551a8/" target="_blank">Linkedin</a></p>
                     <p>Email: zachary.greenberg.12@gmail.com</p>
                     <p>Phone: (940) 435-5689</p>
-                    <p><a href="./img/Resume.pdf">Resume</a></p>
+                    <p><a href="../images/Resume.pdf">Resume</a></p>
                 </div>
             </div>
         </main>

@@ -1,50 +1,50 @@
 [
     {
-        "name": "COVID Road Trip",
-        "image": "../../images/covid-road-trip.png",
-        "description": "Plan a road trip that avoids coronavirus hotspots.",
-        "technologies": "Uses JavaScript, jQuery, Mapbox Directions API, Google Maps Geocoding API and Novel CoVID19 API.",
-        "github": "https://github.com/christinakerr/COVIDRoadTrip",
-        "deployed": "https://christinakerr.github.io/COVIDRoadTrip/"
+        "name": "Where's Work",
+        "image": "../../images/Where'sWork.png",
+        "description": "Looking for a streamlined and simple to use job search website. Then look no further then 'Where's Work'",
+        "technologies": "Uses JavaScript, jQuery, Muse API, and MapQuest API.",
+        "github": "https://github.com/Zach-Greenberg/Where-s_Work",
+        "deployed": "https://zach-greenberg.github.io/Where-s_Work/"
     },
     {
-        "name": "CodeTube",
-        "image": "../../images/codetube.png",
-        "description": "Browse coding tutorials and save your favorites to your personal library.",
-        "technologies": "Uses JavaScript, jQuery, YouTube API, Passport.js, Sequelize.js and MySQL",
-        "github": "https://github.com/christinakerr/CodeTube",
-        "deployed": "https://codetube-p2.herokuapp.com/"
-    },
-    {
-        "name": "Weather Dashboard",
-        "image": "../../images/weather-dashboard.png",
-        "description": "Search for any city in the world and see its current weather and five-day forecast.",
-        "technologies": "Uses JavaScript, jQuery, OpenWeather API and Moment.js",
-        "github": "https://github.com/christinakerr/WeatherDashboard",
-        "deployed": "https://christinakerr.github.io/WeatherDashboard/"
+        "name": "Band-Aids",
+        "image": "../../images/Band-Aid.jpg",
+        "description": "Band-Aid is a open platform to share, explore, and discover music events happening from garage bands to super stars.",
+        "technologies": "Uses JavaScript, Express, Node Mailer, Passport, Sequelize and MySQL",
+        "github": "https://github.com/Manii-dot/Band-Aids",
+        "deployed": "https://band-aids.herokuapp.com/"
     },
     {
         "name": "Workday Scheduler",
-        "image": "../../images/workday-scheduler-2.png",
-        "description": "Plan your workday with this color-coded web application and save your schedule to local storage.",
+        "image": "../../images/WorkScheduler.png",
+        "description": "This Daily Work Day Planner will display different colors based on the time of day to keep you on track.",
         "technologies": "Uses JavaScript, jQuery and Moment.js",
-        "github": "https://github.com/christinakerr/WorkdayScheduler",
-        "deployed": "https://christinakerr.github.io/WorkdayScheduler/"
+        "github": "https://github.com/Zach-Greenberg/Work_Day_Scheduler",
+        "deployed": "https://zach-greenberg.github.io/Work_Day_Scheduler/"
     },
     {
         "name": "Employee Tracker",
-        "image": "../../images/employee-tracker.png",
-        "description": "Management can track their employees and departments with this CLI app.",
+        "image": "../../images/employee_tracker.jpg",
+        "description": "Keep track of your Employees, Departments, and Roles with this terminal based content management system",
         "technologies": "Uses JavaScript, Node.js, Express.js and MySQL",
-        "github": "https://github.com/christinakerr/EmployeeTracker",
-        "deployed": "https://www.youtube.com/watch?v=VrJqE6CIecM&feature=youtu.be"
+        "github": "https://github.com/Zach-Greenberg/Employee_Tracker",
+        "deployed": ""
     },
     {
-        "name": "Note Taker",
-        "image": "../../images/note-taker.png",
-        "description": "Stay organized with this note taker app that saves all your notes for later.",
-        "technologies": "Uses JavaScript, jQuery, Node.js and Express.js",
-        "github": "https://github.com/christinakerr/NoteTaker",
-        "deployed": "https://note-taker-2355498.herokuapp.com/"
+        "name": "Workout Tracker",
+        "image": "../../images/workout_tracker.jpg",
+        "description": "Stay on top of fitness with this workout tracker. Create and track daily workouts and view daily workouts in a user friendly graph",
+        "technologies": "Uses JavaScript, Node.js, Express.js, Path, MongoDB, Mongoose, and Morgan",
+        "github": "https://github.com/Zach-Greenberg/Workout_Tracker",
+        "deployed": "https://afternoon-dawn-87940.herokuapp.com/"
+    },
+    {
+        "name": "Budget Tracker",
+        "image": "../../images/budget.jpg",
+        "description": "This Progressive Web App (PWA) is a budget tracker that will allow users to be able to add expenses and deposits to their transactions.",
+        "technologies": "Uses JavaScript, Node.js, Express.js, Service-Worker, IndexDB, and Webpack",
+        "github": "https://github.com/Zach-Greenberg/Budget",
+        "deployed": "https://gentle-springs-89731.herokuapp.com/"
     }
 ]

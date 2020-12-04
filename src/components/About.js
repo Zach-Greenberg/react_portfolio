@@ -1,12 +1,12 @@
 import React from "react";
-import image from ""
+import image from "../SelfPicture.jpeg"
 
 function About() {
     return (
         <main className="container">
             <div className="row">
                 <div className="col-md-12">
-                    <img src={image} alt="Zachary Greenberg" width="200" height="200" className="float-left" />
+                    <img src={image} alt="Zachary Greenberg" width="250" height="300" className="float-left" />
                     <h1 className="name">Zachary Greenberg</h1>
                     <hr />
                     <p>
